@@ -1047,4 +1047,4 @@ public function loginClient($email,$password){
 }
 
 // $sistema = new ecomerce;
-// var_dump($sistema->fecharVenda(55));
+// var_dump($sistema->processarPedido(61));
